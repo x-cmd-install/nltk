@@ -7,7 +7,7 @@ about:
   head: fce04f9
   archived: false
   latestVersion: v3.10.3
-  collectedAt: 2026-09-04T19:32:58Z
+  collectedAt: 2026-09-04T20:57:17Z
 timeline:
   created: 2009-09-07
   lastCommit: 2026-09-04
@@ -85,6 +85,89 @@ total:
   openIssue: 214
   commit: 15766
 ---
+path: /home/runner/.x-repo/github.com/nltk/nltk
+collectedAt: 2026-09-04T20:57:22Z
+loc:
+  Python:
+    code: 157973
+    comments: 16334
+    blanks: 26316
+    files: 592
+  ReStructuredText:
+    code: 862
+    comments: 0
+    blanks: 419
+    files: 13
+  Html:
+    code: 665
+    comments: 18
+    blanks: 49
+    files: 3
+  Json:
+    code: 173
+    comments: 0
+    blanks: 0
+    files: 1
+  Makefile:
+    code: 172
+    comments: 21
+    blanks: 49
+    files: 3
+  Jupyter:
+    code: 166
+    comments: 115
+    blanks: 56
+    files: 1
+  Ini:
+    code: 96
+    comments: 19
+    blanks: 21
+    files: 2
+  Sh:
+    code: 82
+    comments: 34
+    blanks: 13
+    files: 1
+  ForgeConfig:
+    code: 36
+    comments: 5
+    blanks: 6
+    files: 5
+  Css:
+    code: 27
+    comments: 5
+    blanks: 6
+    files: 1
+  Xml:
+    code: 17
+    comments: 0
+    blanks: 0
+    files: 1
+  Toml:
+    code: 15
+    comments: 2
+    blanks: 2
+    files: 1
+  Autoconf:
+    code: 11
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 795
+    blanks: 177
+    files: 6
+  Text:
+    code: 0
+    comments: 8421
+    blanks: 45
+    files: 11
+total:
+  code: 160512
+  comments: 25894
+  blanks: 27224
+  files: 642
 ---
 date: "2026-08-24"
 repo:
