@@ -5,18 +5,18 @@ about:
   head: 70d3415
   archived: false
   latestVersion: "v3.10.3"
-  collectedAt: 2026-09-07T05:22:13Z
+  collectedAt: 2026-09-07T19:05:35Z
 timeline:
   created: 2009-09-07
   lastCommit: 2026-09-06
   lastRelease: 2026-08-13
 popularity:
-  star: 14708
+  star: 14710
   watcher: 436
   fork: 3029
   release: 8
   contributor: 448
-  pullRequest: 1901
+  pullRequest: 1902
   issue: 1930
 language:
   Python: 7365312
@@ -31,7 +31,7 @@ recent:
     since: 2026-08-08
     release: 2
     mergedPR: 97
-    openPR: 12
+    openPR: 13
     closedIssue: 4
     openIssue: 3
     commit: 327
@@ -39,7 +39,7 @@ recent:
     since: 2026-07-09
     release: 7
     mergedPR: 119
-    openPR: 12
+    openPR: 13
     closedIssue: 12
     openIssue: 6
     commit: 442
@@ -47,7 +47,7 @@ recent:
     since: 2026-06-09
     release: 8
     mergedPR: 199
-    openPR: 14
+    openPR: 15
     closedIssue: 16
     openIssue: 6
     commit: 526
@@ -55,7 +55,7 @@ recent:
     since: 2026-03-11
     release: 8
     mergedPR: 244
-    openPR: 20
+    openPR: 21
     closedIssue: 36
     openIssue: 6
     commit: 802
@@ -63,7 +63,7 @@ recent:
     since: 2025-09-12
     release: 8
     mergedPR: 293
-    openPR: 22
+    openPR: 23
     closedIssue: 53
     openIssue: 14
     commit: 1035
@@ -71,20 +71,20 @@ recent:
     since: 2024-09-17
     release: 8
     mergedPR: 314
-    openPR: 23
+    openPR: 24
     closedIssue: 103
     openIssue: 20
     commit: 1074
 total:
   release: 8
   mergedPR: 1529
-  openPR: 23
+  openPR: 24
   closedIssue: 1716
   openIssue: 214
   commit: 15774
 ---
 path: /home/runner/.x-repo/github.com/nltk/nltk
-collectedAt: 2026-09-07T05:22:27Z
+collectedAt: 2026-09-07T19:05:52Z
 loc:
   Python:
     code: 158371
@@ -296,7 +296,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:22:30+00:00
+  collectedAt: 2026-09-07T19:05:54+00:00
   platform:
     darwin/arm64:
       name:  null
