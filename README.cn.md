@@ -4,42 +4,13 @@
 
 NLTK Source
 
-![nltk](https://repo.x-cmd.io/nltk.svg)
+![nltk](https://repo.x-cmd.io/nltk.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install nltk
 ```
-
-## 源代码
-
-- **上游仓库**: <https://github.com/nltk/nltk>
-- **官网**: <https://www.nltk.org>
-- **许可证**: Apache-2.0
-
-## 发布
-
-- **最新版本**: `v3.10.3` (2026-08-13)
-- **最近提交**: 2026-09-09
-- **Release 含资产**: 2 个
-- **发布时间**: 2026-08-13T06:56:10Z
-
-## 流行度
-
-- **Star**: 14,713 · **Fork**: 3,033 · **开放 issue**: 1,930 · **贡献者**: 448
-
-## 累计统计
-
-- **发布数**: 8 · **已合并 PR**: 1533 · **开放 PR**: 32 · **已关闭 issue**: 1716 · **开放 issue**: 214 · **提交数**: 15813
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 100 | 21 | 4 | 3 | 366 |
-| 90d | 2026-06-12 | 7 | 194 | 23 | 16 | 6 | 565 |
-| 360d | 2025-09-15 | 8 | 297 | 31 | 53 | 14 | 1074 |
 
 ## 代码规模
 
@@ -63,6 +34,44 @@ x install nltk
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
+## 源代码
+
+- **上游仓库**: <https://github.com/nltk/nltk>
+- **官网**: <https://www.nltk.org>
+- **许可证**: Apache-2.0
+
+## 发布
+
+- **最新版本**: `v3.10.3` (2026-08-13)
+- **最近提交**: 2026-09-09
+- **Release 含资产**: 2 个
+
+## 流行度
+
+- **Star**: 14,714 · **Fork**: 3,034 · **开放 issue**: 1,931 · **贡献者**: 448
+
+## 累计统计
+
+- **发布数**: 8 · **已合并 PR**: 1533 · **开放 PR**: 33 · **已关闭 issue**: 1716 · **开放 issue**: 215 · **提交数**: 15813
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 2 | 100 | 22 | 4 | 4 | 366 |
+| last60d | 2026-07-12 | 7 | 122 | 22 | 11 | 7 | 481 |
+| 90d | 2026-06-12 | 7 | 194 | 24 | 16 | 7 | 565 |
+| last180d | 2026-03-14 | 8 | 248 | 30 | 36 | 7 | 841 |
+| 360d | 2025-09-15 | 8 | 297 | 32 | 53 | 15 | 1074 |
+| last720d | 2024-09-20 | 8 | 318 | 33 | 102 | 21 | 1113 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [nltk-3.10.3-py3-none-any.whl](https://github.com/nltk/nltk/releases/download/v3.10.3/nltk-3.10.3-py3-none-any.whl) | 1.7 MiB | `other` |
+| [nltk-3.10.3.tar.gz](https://github.com/nltk/nltk/releases/download/v3.10.3/nltk-3.10.3.tar.gz) | 3.0 MiB | `native/unknown` |
+
 ## 改进这些数据
 
 nltk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `nltk` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -72,4 +81,4 @@ nltk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:24:21Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:45:58Z._
