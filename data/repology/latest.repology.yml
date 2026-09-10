@@ -1,0 +1,617 @@
+- repo: debian_14
+  subrepo: forky/main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.10.3
+  origversion: 3.10.3-1
+  status: unique
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.10.3
+  origversion: 3.10.3-1
+  status: unique
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - misc
+- repo: kali_rolling
+  subrepo: main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.10.3
+  origversion: 3.10.3-1
+  status: unique
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.10.3
+  origversion: 3.10.3-1
+  status: unique
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.10.3
+  origversion: 3.10.3-1
+  status: unique
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.10.3
+  origversion: 3.10.3-1
+  status: unique
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - universe/python
+- repo: openkylin_2_0
+  subrepo: nile/main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.8.1
+  origversion: 3.8.1-ok2
+  status: outdated
+  maintainers:
+    - packaging@lists.openkylin.top
+    - luoyaoming@kylinos.cn
+  categories:
+    - science
+  vulnerable: true
+- repo: openkylin_2_0
+  subrepo: nile-proposed/main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.8.1
+  origversion: 3.8.1-ok2
+  status: outdated
+  maintainers:
+    - packaging@lists.openkylin.top
+    - luoyaoming@kylinos.cn
+  categories:
+    - science
+  vulnerable: true
+- repo: apertis_v2024
+  subrepo: v2024/development
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: "3.8"
+  origversion: 3.8-1+apertis0
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  vulnerable: true
+- repo: apertis_v2025
+  subrepo: v2025/development
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: "3.8"
+  origversion: 3.8-1+apertis0
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  vulnerable: true
+- repo: apertis_v2026
+  subrepo: v2026/development
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.9.1
+  origversion: 3.9.1-2+apertis0
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  vulnerable: true
+- repo: apertis_v2027
+  subrepo: v2027dev1/development
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.9.1
+  origversion: 3.9.1-2+apertis0
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  vulnerable: true
+- repo: debian_11
+  subrepo: bullseye/main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: "3.5"
+  origversion: 3.5-1
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - misc
+  vulnerable: true
+- repo: debian_12
+  subrepo: bookworm/main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: "3.8"
+  origversion: 3.8-1
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - misc
+  vulnerable: true
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.9.1
+  origversion: 3.9.1-2
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - misc
+  vulnerable: true
+- repo: deepin_unstable
+  subrepo: main
+  srcname: nltk
+  binnames:
+    - python-nltk
+    - python3-nltk
+  visiblename: nltk
+  version: "3.4"
+  origversion: 3.4-1
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - cdluminate@gmail.com
+  vulnerable: true
+- repo: deepin_23
+  subrepo: main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.8.1
+  origversion: 3.8.1-1
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - science
+  vulnerable: true
+- repo: deepin_25
+  subrepo: main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.8.1
+  origversion: 3.8.1-1
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - science
+  vulnerable: true
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: "3.5"
+  origversion: 3.5-1
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - misc
+  vulnerable: true
+- repo: openkylin_3_0
+  subrepo: huanghe/main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.8.1
+  origversion: 3.8.1-ok2
+  status: outdated
+  maintainers:
+    - packaging@lists.openkylin.top
+    - luoyaoming@kylinos.cn
+  categories:
+    - science
+  vulnerable: true
+- repo: openkylin_3_0
+  subrepo: huanghe-proposed/main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.8.1
+  origversion: 3.8.1-ok2
+  status: outdated
+  maintainers:
+    - packaging@lists.openkylin.top
+    - luoyaoming@kylinos.cn
+  categories:
+    - science
+  vulnerable: true
+- repo: pardus_21
+  subrepo: main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: "3.5"
+  origversion: 3.5-1
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - misc
+  vulnerable: true
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.9.1
+  origversion: 3.9.1-2
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - misc
+  vulnerable: true
+- repo: parrot
+  subrepo: parrot/main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.9.1
+  origversion: 3.9.1-2
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - misc
+  vulnerable: true
+- repo: pureos_amber
+  subrepo: amber/main
+  srcname: nltk
+  binnames:
+    - python-nltk
+    - python3-nltk
+  visiblename: nltk
+  version: "3.4"
+  origversion: 3.4-1
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - cdluminate@gmail.com
+  categories:
+    - python
+  vulnerable: true
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: "3.5"
+  origversion: 3.5-1
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - python
+  vulnerable: true
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.9.1
+  origversion: 3.9.1-2
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - python
+  vulnerable: true
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: "3.8"
+  origversion: 3.8-1
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - misc
+  vulnerable: true
+- repo: raspbian_stable
+  subrepo: main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.9.1
+  origversion: 3.9.1-2
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - misc
+  vulnerable: true
+- repo: trisquel_10_0
+  subrepo: nabia/main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.4.5
+  origversion: 3.4.5-2
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - cdluminate@gmail.com
+  categories:
+    - universe/python
+  vulnerable: true
+- repo: trisquel_11_0
+  subrepo: aramo/main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: "3.7"
+  origversion: 3.7-1
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - universe/python
+  vulnerable: true
+- repo: ubuntu_14_04
+  subrepo: trusty/universe
+  srcname: nltk
+  binnames:
+    - python-nltk
+  visiblename: nltk
+  version: 2.0~b9
+  origversion: 2.0~b9-0ubuntu4
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/python
+  vulnerable: true
+- repo: ubuntu_16_04
+  subrepo: xenial-updates/universe
+  srcname: nltk
+  binnames:
+    - python-nltk
+    - python3-nltk
+  visiblename: nltk
+  version: "3.1"
+  origversion: 3.1-1ubuntu0.1
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+    - debian@danielstender.com
+  categories:
+    - universe/python
+  vulnerable: true
+- repo: ubuntu_16_04
+  subrepo: xenial/universe
+  srcname: nltk
+  binnames:
+    - python-nltk
+    - python3-nltk
+  visiblename: nltk
+  version: "3.1"
+  origversion: 3.1-1
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - debian@danielstender.com
+  categories:
+    - universe/python
+  vulnerable: true
+- repo: ubuntu_18_04
+  subrepo: bionic/universe
+  srcname: nltk
+  binnames:
+    - python-nltk
+    - python3-nltk
+  visiblename: nltk
+  version: 3.2.5
+  origversion: 3.2.5-1
+  status: outdated
+  maintainers:
+    - packages@qa.debian.org
+  categories:
+    - universe/python
+  vulnerable: true
+- repo: ubuntu_18_04
+  subrepo: bionic-updates/universe
+  srcname: nltk
+  binnames:
+    - python-nltk
+    - python3-nltk
+  visiblename: nltk
+  version: 3.2.5
+  origversion: 3.2.5-1ubuntu0.1
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/python
+  vulnerable: true
+- repo: ubuntu_20_04
+  subrepo: focal/universe
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.4.5
+  origversion: 3.4.5-2
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - cdluminate@gmail.com
+  categories:
+    - universe/python
+  vulnerable: true
+- repo: ubuntu_22_04
+  subrepo: jammy/universe
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: "3.7"
+  origversion: 3.7-1
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - universe/python
+  vulnerable: true
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.8.1
+  origversion: 3.8.1-1
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - universe/python
+  vulnerable: true
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.9.1
+  origversion: 3.9.1-2
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - universe/python
+  vulnerable: true
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.9.1
+  origversion: 3.9.1-2
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - universe/python
+  vulnerable: true
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.9.2
+  origversion: 3.9.2-1
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
+  categories:
+    - universe/python
+  vulnerable: true
