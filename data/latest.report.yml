@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.10.3"
   latestRelease: "v3.10.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:20:54Z
+  collectedAt: 2026-09-11T19:39:33Z
 timeline:
   created: 2009-09-07
   lastCommit: 2026-09-09
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-08-13
   lastPrerelease: 
 popularity:
-  star: 14714
+  star: 14716
   watcher: 436
-  fork: 3034
+  fork: 3035
   release: 8
   contributor: 448
-  pullRequest: 1915
+  pullRequest: 1921
   issue: 1931
 language:
   Python: 7496635
@@ -35,7 +35,7 @@ recent:
     since: 2026-08-12
     release: 2
     mergedPR: 98
-    openPR: 22
+    openPR: 27
     closedIssue: 4
     openIssue: 4
     commit: 366
@@ -43,7 +43,7 @@ recent:
     since: 2026-07-13
     release: 7
     mergedPR: 122
-    openPR: 22
+    openPR: 27
     closedIssue: 11
     openIssue: 7
     commit: 481
@@ -51,7 +51,7 @@ recent:
     since: 2026-06-13
     release: 7
     mergedPR: 194
-    openPR: 24
+    openPR: 29
     closedIssue: 16
     openIssue: 7
     commit: 565
@@ -59,7 +59,7 @@ recent:
     since: 2026-03-15
     release: 8
     mergedPR: 246
-    openPR: 29
+    openPR: 34
     closedIssue: 35
     openIssue: 7
     commit: 841
@@ -67,7 +67,7 @@ recent:
     since: 2025-09-16
     release: 8
     mergedPR: 297
-    openPR: 32
+    openPR: 37
     closedIssue: 53
     openIssue: 15
     commit: 1074
@@ -75,20 +75,20 @@ recent:
     since: 2024-09-21
     release: 8
     mergedPR: 318
-    openPR: 33
+    openPR: 38
     closedIssue: 102
     openIssue: 21
     commit: 1113
 total:
   release: 8
   mergedPR: 1533
-  openPR: 33
+  openPR: 38
   closedIssue: 1716
   openIssue: 215
   commit: 15813
 ---
 path: /home/runner/.x-repo/github.com/nltk/nltk
-collectedAt: 2026-09-11T05:21:03Z
+collectedAt: 2026-09-11T19:39:51Z
 loc:
   Python:
     code: 160698
