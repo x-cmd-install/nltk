@@ -26,12 +26,12 @@ Total: **164,418** lines of code across **627** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.8 / 10**
+Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/11 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 1536 · **Open PRs**: 37 · **Closed issues**: 1716 · **Open issues**: 215 · **Commits**: 15839
+- **Releases**: 8 · **Merged PRs**: 1536 · **Open PRs**: 38 · **Closed issues**: 1716 · **Open issues**: 215 · **Commits**: 15839
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 96 | 25 | 3 | 4 | 273 |
-| last60d | 2026-07-16 | 7 | 125 | 26 | 11 | 7 | 506 |
-| 90d | 2026-06-16 | 7 | 190 | 28 | 15 | 7 | 591 |
-| last180d | 2026-03-18 | 8 | 245 | 32 | 33 | 7 | 722 |
-| 360d | 2025-09-19 | 8 | 296 | 36 | 53 | 15 | 1074 |
-| last720d | 2024-09-24 | 8 | 321 | 37 | 102 | 21 | 1139 |
+| 30d | 2026-08-16 | 0 | 94 | 26 | 3 | 4 | 273 |
+| last60d | 2026-07-17 | 7 | 125 | 27 | 11 | 7 | 506 |
+| 90d | 2026-06-17 | 7 | 189 | 29 | 15 | 7 | 591 |
+| last180d | 2026-03-19 | 8 | 245 | 33 | 32 | 7 | 722 |
+| 360d | 2025-09-20 | 8 | 296 | 37 | 53 | 15 | 1074 |
+| last720d | 2024-09-25 | 8 | 321 | 38 | 102 | 21 | 1138 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for nltk lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:48:11Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:55:29Z._
