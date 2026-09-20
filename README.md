@@ -4,7 +4,7 @@
 
 NLTK Source
 
-![nltk](https://repo.x-cmd.io/nltk.svg)
+[![x-cmd/install — nltk Code Quality Monitoring Repo Card](https://repo.x-cmd.io/nltk.svg)](https://x-cmd.com/install/nltk)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install nltk
 
 ## Code insight
 
-Total: **164,543** lines of code across **628** files in the top 5 languages.
+Total: **164,801** lines of code across **630** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 162,221 | 16,883 | 27,198 | 608 |
+| Python | 162,479 | 16,907 | 27,240 | 610 |
 | ReStructuredText | 862 | 0 | 419 | 13 |
 | Html | 665 | 18 | 49 | 3 |
 | Json | 173 | 0 | 0 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.10.3` (2026-08-13)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-19
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 14,719 · **Forks**: 3,037 · **Open issues**: 1,933 · **Contributors**: 449
+- **Stars**: 14,719 · **Forks**: 3,037 · **Open issues**: 1,933 · **Contributors**: 452
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 1538 · **Open PRs**: 41 · **Closed issues**: 1716 · **Open issues**: 217 · **Commits**: 15849
+- **Releases**: 8 · **Merged PRs**: 1544 · **Open PRs**: 38 · **Closed issues**: 1717 · **Open issues**: 216 · **Commits**: 15868
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 87 | 29 | 1 | 6 | 283 |
-| last60d | 2026-07-20 | 7 | 126 | 30 | 11 | 9 | 516 |
-| 90d | 2026-06-20 | 7 | 173 | 32 | 14 | 9 | 601 |
-| last180d | 2026-03-22 | 8 | 243 | 34 | 31 | 9 | 732 |
-| 360d | 2025-09-23 | 8 | 297 | 40 | 53 | 17 | 1084 |
-| last720d | 2024-09-28 | 8 | 323 | 41 | 102 | 23 | 1147 |
+| 30d | 2026-08-21 | 0 | 89 | 26 | 1 | 6 | 266 |
+| last60d | 2026-07-22 | 7 | 131 | 27 | 11 | 9 | 534 |
+| 90d | 2026-06-22 | 7 | 177 | 29 | 14 | 9 | 570 |
+| last180d | 2026-03-24 | 8 | 249 | 31 | 31 | 9 | 741 |
+| 360d | 2025-09-25 | 8 | 301 | 37 | 53 | 17 | 1097 |
+| last720d | 2024-09-30 | 8 | 329 | 38 | 102 | 23 | 1166 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for nltk lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:36:22Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:41:18Z._
