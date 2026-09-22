@@ -26,13 +26,13 @@ Total: **165,261** lines of code across **634** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.5 / 10**
+Overall score: **5.3 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,720 · **Forks**: 3,037 · **Open issues**: 1,933 · **Contributors**: 452
+- **Stars**: 14,723 · **Forks**: 3,038 · **Open issues**: 1,933 · **Contributors**: 452
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 1549 · **Open PRs**: 40 · **Closed issues**: 1717 · **Open issues**: 216 · **Commits**: 15878
+- **Releases**: 8 · **Merged PRs**: 1549 · **Open PRs**: 42 · **Closed issues**: 1717 · **Open issues**: 216 · **Commits**: 15878
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 94 | 27 | 0 | 6 | 276 |
-| last60d | 2026-07-23 | 7 | 136 | 29 | 10 | 9 | 544 |
-| 90d | 2026-06-23 | 7 | 176 | 31 | 14 | 9 | 580 |
-| last180d | 2026-03-25 | 8 | 254 | 33 | 31 | 9 | 751 |
-| 360d | 2025-09-26 | 8 | 306 | 39 | 53 | 17 | 1107 |
-| last720d | 2024-10-01 | 8 | 334 | 40 | 102 | 23 | 1176 |
+| 30d | 2026-08-23 | 0 | 93 | 29 | 0 | 6 | 276 |
+| last60d | 2026-07-24 | 7 | 135 | 31 | 10 | 9 | 544 |
+| 90d | 2026-06-24 | 7 | 168 | 33 | 14 | 9 | 580 |
+| last180d | 2026-03-26 | 8 | 254 | 35 | 31 | 9 | 751 |
+| 360d | 2025-09-27 | 8 | 306 | 41 | 53 | 17 | 1107 |
+| last720d | 2024-10-02 | 8 | 334 | 42 | 101 | 23 | 1176 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for nltk lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:40:56Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:48:05Z._
