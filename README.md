@@ -4,7 +4,7 @@
 
 NLTK Source
 
-[![x-cmd/install — nltk Code Quality Monitoring Repo Card](https://repo.x-cmd.io/nltk.svg)](https://x-cmd.com/install/nltk)
+[![x-cmd/install — nltk Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/nltk.svg)](https://x-cmd.com/install/nltk)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,723 · **Forks**: 3,038 · **Open issues**: 1,933 · **Contributors**: 452
+- **Stars**: 14,724 · **Forks**: 3,039 · **Open issues**: 1,933 · **Contributors**: 452
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 1549 · **Open PRs**: 42 · **Closed issues**: 1717 · **Open issues**: 216 · **Commits**: 15878
+- **Releases**: 8 · **Merged PRs**: 1549 · **Open PRs**: 44 · **Closed issues**: 1717 · **Open issues**: 216 · **Commits**: 15878
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 93 | 29 | 0 | 6 | 276 |
-| last60d | 2026-07-24 | 7 | 135 | 31 | 10 | 9 | 544 |
-| 90d | 2026-06-24 | 7 | 168 | 33 | 14 | 9 | 580 |
-| last180d | 2026-03-26 | 8 | 254 | 35 | 31 | 9 | 751 |
-| 360d | 2025-09-27 | 8 | 306 | 41 | 53 | 17 | 1107 |
-| last720d | 2024-10-02 | 8 | 334 | 42 | 101 | 23 | 1176 |
+| 30d | 2026-08-24 | 0 | 91 | 30 | 0 | 6 | 276 |
+| last60d | 2026-07-25 | 7 | 135 | 33 | 10 | 8 | 544 |
+| 90d | 2026-06-25 | 7 | 155 | 35 | 14 | 9 | 580 |
+| last180d | 2026-03-27 | 8 | 253 | 37 | 31 | 9 | 751 |
+| 360d | 2025-09-28 | 8 | 306 | 43 | 53 | 17 | 1107 |
+| last720d | 2024-10-03 | 8 | 334 | 44 | 101 | 23 | 1176 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for nltk lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:48:05Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:41:06Z._

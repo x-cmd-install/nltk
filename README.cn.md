@@ -4,7 +4,7 @@
 
 NLTK Source
 
-[![x-cmd/install — nltk Code Quality Monitoring Repo Card](https://repo.x-cmd.io/nltk.svg?lang=zh)](https://x-cmd.com/install/nltk)
+[![x-cmd/install — nltk Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/nltk.svg?lang=zh)](https://x-cmd.com/install/nltk)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install nltk
 
 ## 流行度
 
-- **Star**: 14,723 · **Fork**: 3,038 · **开放 issue**: 1,933 · **贡献者**: 452
+- **Star**: 14,724 · **Fork**: 3,039 · **开放 issue**: 1,933 · **贡献者**: 452
 
 ## 累计统计
 
-- **发布数**: 8 · **已合并 PR**: 1549 · **开放 PR**: 42 · **已关闭 issue**: 1717 · **开放 issue**: 216 · **提交数**: 15878
+- **发布数**: 8 · **已合并 PR**: 1549 · **开放 PR**: 44 · **已关闭 issue**: 1717 · **开放 issue**: 216 · **提交数**: 15878
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 93 | 29 | 0 | 6 | 276 |
-| last60d | 2026-07-24 | 7 | 135 | 31 | 10 | 9 | 544 |
-| 90d | 2026-06-24 | 7 | 168 | 33 | 14 | 9 | 580 |
-| last180d | 2026-03-26 | 8 | 254 | 35 | 31 | 9 | 751 |
-| 360d | 2025-09-27 | 8 | 306 | 41 | 53 | 17 | 1107 |
-| last720d | 2024-10-02 | 8 | 334 | 42 | 101 | 23 | 1176 |
+| 30d | 2026-08-24 | 0 | 91 | 30 | 0 | 6 | 276 |
+| last60d | 2026-07-25 | 7 | 135 | 33 | 10 | 8 | 544 |
+| 90d | 2026-06-25 | 7 | 155 | 35 | 14 | 9 | 580 |
+| last180d | 2026-03-27 | 8 | 253 | 37 | 31 | 9 | 751 |
+| 360d | 2025-09-28 | 8 | 306 | 43 | 53 | 17 | 1107 |
+| last720d | 2024-10-03 | 8 | 334 | 44 | 101 | 23 | 1176 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ nltk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:48:05Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:41:07Z._
