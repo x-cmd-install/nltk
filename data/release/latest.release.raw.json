@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1798644,
       "digest": "sha256:140d520a40adcababab9963fcebcf37b5b520d2d326cf02fe11e9d3fb385cee7",
-      "download_count": 35,
+      "download_count": 36,
       "created_at": "2026-08-13T06:56:09Z",
       "updated_at": "2026-08-13T06:56:09Z",
       "browser_download_url": "https://github.com/nltk/nltk/releases/download/v3.10.3/nltk-3.10.3-py3-none-any.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3146540,
       "digest": "sha256:1f28aa1988f7254ac54a00d7e6cdf7c809f6e131d18081c207e46b325460be0d",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-08-13T06:56:09Z",
       "updated_at": "2026-08-13T06:56:10Z",
       "browser_download_url": "https://github.com/nltk/nltk/releases/download/v3.10.3/nltk-3.10.3.tar.gz"
