@@ -14,11 +14,11 @@ x install nltk
 
 ## Code insight
 
-Total: **182,446** lines of code across **680** files in the top 5 languages.
+Total: **184,716** lines of code across **685** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 180,124 | 18,330 | 30,122 | 660 |
+| Python | 182,394 | 18,536 | 30,508 | 665 |
 | ReStructuredText | 862 | 0 | 419 | 13 |
 | Html | 665 | 18 | 49 | 3 |
 | Json | 173 | 0 | 0 | 1 |
@@ -26,12 +26,12 @@ Total: **182,446** lines of code across **680** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.3 / 10**
+Overall score: **4.8 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (0/10) — Found 0/9 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.10.3` (2026-08-13)
-- **Last commit**: 2026-09-30
+- **Last commit**: 2026-10-01
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 14,732 · **Forks**: 3,043 · **Open issues**: 1,937 · **Contributors**: 452
+- **Stars**: 14,732 · **Forks**: 3,045 · **Open issues**: 1,937 · **Contributors**: 452
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 1566 · **Open PRs**: 44 · **Closed issues**: 1718 · **Open issues**: 219 · **Commits**: 16061
+- **Releases**: 8 · **Merged PRs**: 1572 · **Open PRs**: 43 · **Closed issues**: 1719 · **Open issues**: 218 · **Commits**: 16113
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 72 | 29 | 1 | 7 | 306 |
-| last60d | 2026-08-01 | 5 | 139 | 33 | 8 | 11 | 686 |
-| 90d | 2026-07-02 | 7 | 162 | 35 | 15 | 12 | 729 |
-| last180d | 2026-04-03 | 8 | 267 | 37 | 31 | 12 | 924 |
-| 360d | 2025-10-05 | 8 | 321 | 43 | 53 | 19 | 1280 |
-| last720d | 2024-10-10 | 8 | 350 | 43 | 102 | 26 | 1358 |
+| 30d | 2026-09-01 | 0 | 56 | 27 | 1 | 7 | 356 |
+| last60d | 2026-08-02 | 5 | 144 | 32 | 8 | 11 | 736 |
+| 90d | 2026-07-03 | 7 | 167 | 34 | 15 | 12 | 779 |
+| last180d | 2026-04-04 | 8 | 272 | 36 | 30 | 12 | 974 |
+| 360d | 2025-10-06 | 8 | 327 | 42 | 53 | 19 | 1330 |
+| last720d | 2024-10-11 | 8 | 356 | 42 | 102 | 26 | 1410 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for nltk lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:15:44Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:25:23Z._
