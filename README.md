@@ -14,11 +14,11 @@ x install nltk
 
 ## Code insight
 
-Total: **184,716** lines of code across **685** files in the top 5 languages.
+Total: **191,610** lines of code across **698** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 182,394 | 18,536 | 30,508 | 665 |
+| Python | 189,288 | 18,937 | 31,577 | 678 |
 | ReStructuredText | 862 | 0 | 419 | 13 |
 | Html | 665 | 18 | 49 | 3 |
 | Json | 173 | 0 | 0 | 1 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,732 · **Forks**: 3,045 · **Open issues**: 1,937 · **Contributors**: 452
+- **Stars**: 14,732 · **Forks**: 3,046 · **Open issues**: 1,937 · **Contributors**: 453
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 1572 · **Open PRs**: 43 · **Closed issues**: 1719 · **Open issues**: 218 · **Commits**: 16113
+- **Releases**: 8 · **Merged PRs**: 1584 · **Open PRs**: 33 · **Closed issues**: 1719 · **Open issues**: 218 · **Commits**: 16231
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 56 | 27 | 1 | 7 | 356 |
-| last60d | 2026-08-02 | 5 | 144 | 32 | 8 | 11 | 736 |
-| 90d | 2026-07-03 | 7 | 167 | 34 | 15 | 12 | 779 |
-| last180d | 2026-04-04 | 8 | 272 | 36 | 30 | 12 | 974 |
-| 360d | 2025-10-06 | 8 | 327 | 42 | 53 | 19 | 1330 |
-| last720d | 2024-10-11 | 8 | 356 | 42 | 102 | 26 | 1410 |
+| 30d | 2026-09-02 | 0 | 64 | 20 | 1 | 7 | 455 |
+| last60d | 2026-08-03 | 5 | 155 | 23 | 7 | 11 | 853 |
+| 90d | 2026-07-04 | 7 | 176 | 25 | 15 | 12 | 896 |
+| last180d | 2026-04-05 | 8 | 283 | 27 | 30 | 12 | 1091 |
+| 360d | 2025-10-07 | 8 | 339 | 32 | 52 | 19 | 1448 |
+| last720d | 2024-10-12 | 8 | 368 | 32 | 102 | 26 | 1528 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for nltk lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:25:23Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:14:31Z._
