@@ -26,11 +26,11 @@ x install nltk
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.8 / 10**
+总评分: **5 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/9 approved changesets -- score normalized to 0
+- **Code-Review** (2/10) — Found 1/4 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,22 +48,22 @@ x install nltk
 
 ## 流行度
 
-- **Star**: 14,733 · **Fork**: 3,045 · **开放 issue**: 1,936 · **贡献者**: 455
+- **Star**: 14,734 · **Fork**: 3,045 · **开放 issue**: 1,936 · **贡献者**: 455
 
 ## 累计统计
 
-- **发布数**: 8 · **已合并 PR**: 1591 · **开放 PR**: 28 · **已关闭 issue**: 1753 · **开放 issue**: 183 · **提交数**: 16413
+- **发布数**: 8 · **已合并 PR**: 1591 · **开放 PR**: 30 · **已关闭 issue**: 1752 · **开放 issue**: 184 · **提交数**: 16413
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 55 | 14 | 2 | 4 | 543 |
-| last60d | 2026-08-08 | 2 | 157 | 19 | 6 | 7 | 987 |
-| 90d | 2026-07-09 | 7 | 179 | 19 | 14 | 10 | 1076 |
-| last180d | 2026-04-10 | 8 | 288 | 23 | 30 | 10 | 1266 |
-| 360d | 2025-10-12 | 8 | 346 | 27 | 54 | 16 | 1630 |
-| last720d | 2024-10-17 | 8 | 375 | 27 | 105 | 21 | 1710 |
+| 30d | 2026-09-08 | 0 | 52 | 14 | 2 | 4 | 543 |
+| last60d | 2026-08-09 | 2 | 156 | 21 | 6 | 7 | 987 |
+| 90d | 2026-07-10 | 7 | 179 | 21 | 14 | 10 | 1076 |
+| last180d | 2026-04-11 | 8 | 288 | 25 | 30 | 10 | 1266 |
+| 360d | 2025-10-13 | 8 | 346 | 29 | 53 | 17 | 1630 |
+| last720d | 2024-10-18 | 8 | 375 | 29 | 104 | 22 | 1710 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ nltk 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261007.yml` · 2026-10-07T06:34:12Z._
+_数据快照: `data/card/261008.yml` · 2026-10-08T06:44:15Z._
