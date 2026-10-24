@@ -14,11 +14,11 @@ x install nltk
 
 ## Code insight
 
-Total: **213,087** lines of code across **737** files in the top 5 languages.
+Total: **213,130** lines of code across **737** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 210,709 | 20,305 | 35,139 | 717 |
+| Python | 210,752 | 20,305 | 35,142 | 717 |
 | ReStructuredText | 901 | 0 | 428 | 13 |
 | Html | 665 | 18 | 49 | 3 |
 | Json | 173 | 0 | 0 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.10.4` (2026-10-21)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-24
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 14,753 · **Forks**: 3,076 · **Open issues**: 1,940 · **Contributors**: 458
+- **Stars**: 14,757 · **Forks**: 3,077 · **Open issues**: 1,941 · **Contributors**: 458
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 1622 · **Open PRs**: 29 · **Closed issues**: 1753 · **Open issues**: 187 · **Commits**: 16634
+- **Releases**: 10 · **Merged PRs**: 1623 · **Open PRs**: 31 · **Closed issues**: 1754 · **Open issues**: 187 · **Commits**: 16641
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 2 | 57 | 7 | 1 | 6 | 636 |
-| last60d | 2026-08-24 | 2 | 161 | 20 | 3 | 10 | 1030 |
-| 90d | 2026-07-25 | 9 | 206 | 21 | 13 | 12 | 1299 |
-| last180d | 2026-04-26 | 10 | 314 | 25 | 26 | 13 | 1439 |
-| 360d | 2025-10-28 | 10 | 375 | 28 | 53 | 19 | 1852 |
-| last720d | 2024-11-02 | 10 | 404 | 28 | 103 | 25 | 1929 |
+| 30d | 2026-09-24 | 2 | 57 | 9 | 1 | 7 | 643 |
+| last60d | 2026-08-25 | 2 | 159 | 22 | 4 | 10 | 1037 |
+| 90d | 2026-07-26 | 9 | 207 | 23 | 14 | 12 | 1306 |
+| last180d | 2026-04-27 | 10 | 314 | 27 | 26 | 13 | 1446 |
+| 360d | 2025-10-29 | 10 | 375 | 30 | 54 | 18 | 1859 |
+| last720d | 2024-11-03 | 10 | 405 | 30 | 104 | 25 | 1935 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for nltk lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:33:35Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:07:48Z._
