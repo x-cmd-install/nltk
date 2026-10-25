@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1722992,
       "digest": "sha256:e46d89e59ef949270e3b19ab097da8dbb09350e05cb5a746ff92f6ccf6e8ce90",
-      "download_count": 12,
+      "download_count": 15,
       "created_at": "2026-10-21T11:30:26Z",
       "updated_at": "2026-10-21T11:30:26Z",
       "browser_download_url": "https://github.com/nltk/nltk/releases/download/v3.10.4/nltk-3.10.4-py3-none-any.whl"
