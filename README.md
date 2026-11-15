@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 2 | 32 | 14 | 1 | 5 | 159 |
-| last60d | 2026-09-15 | 2 | 90 | 21 | 3 | 11 | 829 |
-| 90d | 2026-08-16 | 2 | 195 | 32 | 8 | 13 | 1237 |
-| last180d | 2026-05-18 | 10 | 326 | 34 | 27 | 16 | 1510 |
-| 360d | 2025-11-19 | 10 | 379 | 39 | 53 | 20 | 1913 |
-| last720d | 2024-11-24 | 10 | 422 | 39 | 102 | 28 | 2018 |
+| 30d | 2026-10-16 | 2 | 26 | 14 | 1 | 4 | 81 |
+| last60d | 2026-09-16 | 2 | 90 | 21 | 2 | 11 | 770 |
+| 90d | 2026-08-17 | 2 | 188 | 32 | 7 | 13 | 1139 |
+| last180d | 2026-05-19 | 10 | 326 | 34 | 27 | 16 | 1508 |
+| 360d | 2025-11-20 | 10 | 377 | 39 | 53 | 20 | 1897 |
+| last720d | 2024-11-25 | 10 | 422 | 39 | 101 | 28 | 2018 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for nltk lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:24:19Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:24:30Z._
