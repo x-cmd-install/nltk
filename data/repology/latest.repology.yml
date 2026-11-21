@@ -1,42 +1,3 @@
-- repo: apertis_v2024
-  subrepo: v2024/development
-  srcname: nltk
-  binnames:
-    - python3-nltk
-  visiblename: nltk
-  version: "3.8"
-  origversion: 3.8-1+apertis0
-  status: outdated
-  maintainers:
-    - debian-science-maintainers@lists.alioth.debian.org
-    - lumin@debian.org
-  vulnerable: true
-- repo: apertis_v2025
-  subrepo: v2025/development
-  srcname: nltk
-  binnames:
-    - python3-nltk
-  visiblename: nltk
-  version: "3.8"
-  origversion: 3.8-1+apertis0
-  status: outdated
-  maintainers:
-    - debian-science-maintainers@lists.alioth.debian.org
-    - lumin@debian.org
-  vulnerable: true
-- repo: apertis_v2026
-  subrepo: v2026/development
-  srcname: nltk
-  binnames:
-    - python3-nltk
-  visiblename: nltk
-  version: 3.9.1
-  origversion: 3.9.1-2+apertis0
-  status: outdated
-  maintainers:
-    - debian-science-maintainers@lists.alioth.debian.org
-    - lumin@debian.org
-  vulnerable: true
 - repo: debian_14
   subrepo: forky/main
   srcname: nltk
@@ -135,50 +96,44 @@
     - lumin@debian.org
   categories:
     - universe/python
-- repo: openkylin_3_0
-  subrepo: huanghe/main
+- repo: apertis_v2024
+  subrepo: v2024/development
   srcname: nltk
   binnames:
     - python3-nltk
   visiblename: nltk
-  version: 3.8.1
-  origversion: 3.8.1-ok2
+  version: "3.8"
+  origversion: 3.8-1+apertis0
   status: outdated
   maintainers:
-    - packaging@lists.openkylin.top
-    - luoyaoming@kylinos.cn
-  categories:
-    - science
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
   vulnerable: true
-- repo: openkylin_2_0
-  subrepo: nile/main
+- repo: apertis_v2025
+  subrepo: v2025/development
   srcname: nltk
   binnames:
     - python3-nltk
   visiblename: nltk
-  version: 3.8.1
-  origversion: 3.8.1-ok2
+  version: "3.8"
+  origversion: 3.8-1+apertis0
   status: outdated
   maintainers:
-    - packaging@lists.openkylin.top
-    - luoyaoming@kylinos.cn
-  categories:
-    - science
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
   vulnerable: true
-- repo: openkylin_2_0
-  subrepo: nile-proposed/main
+- repo: apertis_v2026
+  subrepo: v2026/development
   srcname: nltk
   binnames:
     - python3-nltk
   visiblename: nltk
-  version: 3.8.1
-  origversion: 3.8.1-ok2
+  version: 3.9.1
+  origversion: 3.9.1-2+apertis0
   status: outdated
   maintainers:
-    - packaging@lists.openkylin.top
-    - luoyaoming@kylinos.cn
-  categories:
-    - science
+    - debian-science-maintainers@lists.alioth.debian.org
+    - lumin@debian.org
   vulnerable: true
 - repo: apertis_v2027
   subrepo: v2027dev1/development
@@ -238,20 +193,6 @@
   categories:
     - misc
   vulnerable: true
-- repo: deepin_unstable
-  subrepo: main
-  srcname: nltk
-  binnames:
-    - python-nltk
-    - python3-nltk
-  visiblename: nltk
-  version: "3.4"
-  origversion: 3.4-1
-  status: outdated
-  maintainers:
-    - debian-science-maintainers@lists.alioth.debian.org
-    - cdluminate@gmail.com
-  vulnerable: true
 - repo: deepin_23
   subrepo: main
   srcname: nltk
@@ -297,6 +238,51 @@
   categories:
     - misc
   vulnerable: true
+- repo: openkylin_2_0
+  subrepo: nile/main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.8.1
+  origversion: 3.8.1-ok2
+  status: outdated
+  maintainers:
+    - packaging@lists.openkylin.top
+    - luoyaoming@kylinos.cn
+  categories:
+    - science
+  vulnerable: true
+- repo: openkylin_2_0
+  subrepo: nile-proposed/main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.8.1
+  origversion: 3.8.1-ok2
+  status: outdated
+  maintainers:
+    - packaging@lists.openkylin.top
+    - luoyaoming@kylinos.cn
+  categories:
+    - science
+  vulnerable: true
+- repo: openkylin_3_0
+  subrepo: huanghe/main
+  srcname: nltk
+  binnames:
+    - python3-nltk
+  visiblename: nltk
+  version: 3.8.1
+  origversion: 3.8.1-ok2
+  status: outdated
+  maintainers:
+    - packaging@lists.openkylin.top
+    - luoyaoming@kylinos.cn
+  categories:
+    - science
+  vulnerable: true
 - repo: openkylin_3_0
   subrepo: huanghe-proposed/main
   srcname: nltk
@@ -328,7 +314,7 @@
     - misc
   vulnerable: true
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: nltk
   binnames:
     - python3-nltk
@@ -343,7 +329,7 @@
     - misc
   vulnerable: true
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: nltk
   binnames:
     - python3-nltk
