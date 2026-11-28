@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,774 · **Forks**: 3,091 · **Open issues**: 1,954 · **Contributors**: 463
+- **Stars**: 14,775 · **Forks**: 3,091 · **Open issues**: 1,956 · **Contributors**: 463
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 1645 · **Open PRs**: 43 · **Closed issues**: 1755 · **Open issues**: 199 · **Commits**: 16737
+- **Releases**: 10 · **Merged PRs**: 1645 · **Open PRs**: 44 · **Closed issues**: 1755 · **Open issues**: 201 · **Commits**: 16737
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 17 | 15 | 0 | 14 | 89 |
-| last60d | 2026-09-28 | 2 | 77 | 19 | 2 | 17 | 566 |
-| 90d | 2026-08-29 | 2 | 151 | 33 | 4 | 22 | 1071 |
-| last180d | 2026-05-31 | 10 | 326 | 37 | 27 | 26 | 1519 |
-| 360d | 2025-12-02 | 10 | 379 | 42 | 53 | 29 | 1906 |
-| last720d | 2024-12-07 | 10 | 426 | 42 | 101 | 37 | 2029 |
+| 30d | 2026-10-29 | 0 | 15 | 16 | 0 | 16 | 89 |
+| last60d | 2026-09-29 | 2 | 68 | 20 | 1 | 19 | 566 |
+| 90d | 2026-08-30 | 2 | 151 | 34 | 4 | 24 | 1071 |
+| last180d | 2026-06-01 | 10 | 326 | 38 | 26 | 28 | 1519 |
+| 360d | 2025-12-03 | 10 | 379 | 43 | 53 | 31 | 1906 |
+| last720d | 2024-12-08 | 10 | 426 | 43 | 101 | 39 | 2029 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for nltk lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:20:31Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:33:39Z._
